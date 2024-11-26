@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c0162db8b2854a64cb99b5e38d32b018
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _reachedTheMark: {fileID: 21300000, guid: 5328021e7bc0cad4d8671e279f0f3952, type: 3}
+  - _nonreachedTheMark: {fileID: 21300000, guid: 9287172c8b074df4ebd541424e7454f1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

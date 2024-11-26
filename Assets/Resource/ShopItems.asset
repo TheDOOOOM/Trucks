@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 837999300bce1c447a38b5cdbe6171d8, type: 3}
+  m_Name: ShopItems
+  m_EditorClassIdentifier: 
+  _shopItems:
+  - _truckPrefab: {fileID: -6792387332001465943, guid: be85409270ff2234c8d7bbe32243c2fc, type: 3}
+    _price: 0
+    _isUnlock: 1
+  - _truckPrefab: {fileID: 8526089529213523187, guid: 8257cc7caa02de94bb816daf6e85ba5d, type: 3}
+    _price: 150
+    _isUnlock: 0
+  - _truckPrefab: {fileID: 1793181612077770865, guid: 007ad2b3506a64b44b5ba9255d1f775d, type: 3}
+    _price: 250
+    _isUnlock: 0
+  - _truckPrefab: {fileID: 1793181612077770865, guid: 007ad2b3506a64b44b5ba9255d1f775d, type: 3}
+    _price: 550
+    _isUnlock: 0
+  - _truckPrefab: {fileID: 510236865728486688, guid: 28e624a34ab027f4f97e9c71fe990e2a, type: 3}
+    _price: 750
+    _isUnlock: 0
+  - _truckPrefab: {fileID: 6726002910600726294, guid: 7817d7a1aedb59a4abae488fc061a504, type: 3}
+    _price: 1025
+    _isUnlock: 0
